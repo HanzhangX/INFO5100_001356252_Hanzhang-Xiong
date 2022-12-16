@@ -73,7 +73,7 @@
                   </AnchorPane>
                 <AnchorPane disable="true" maxHeight="21.0" minHeight="21.0" SplitPane.resizableWithParent="false">
                      <children>
-                        <Text id="Author" disable="true" layoutX="457.0" layoutY="16.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Author: Zhiming Xue; Yongji Shen" textAlignment="JUSTIFY" underline="true" AnchorPane.rightAnchor="0.88525390625" AnchorPane.topAnchor="5.0" />
+                        <Text id="Author" disable="true" layoutX="457.0" layoutY="16.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Author: Hanzhang Xiong" textAlignment="JUSTIFY" underline="true" AnchorPane.rightAnchor="0.88525390625" AnchorPane.topAnchor="5.0" />
                         <Text id="ProgramName" disable="true" layoutY="15.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Image Management Tool _ INFO 5100" textAlignment="JUSTIFY" underline="true" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="5.0" />
                      </children>
                   </AnchorPane>

@@ -70,7 +70,7 @@
                   </AnchorPane>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="13.0" prefWidth="638.0">
                      <children>
-                        <Text id="Author" disable="true" layoutX="457.0" layoutY="16.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Author: ZhiMing Xue; Yongji Shen" textAlignment="JUSTIFY" underline="true" AnchorPane.bottomAnchor="4.2578125" AnchorPane.rightAnchor="0.88525390625" AnchorPane.topAnchor="3.431640625" />
+                        <Text id="Author" disable="true" layoutX="457.0" layoutY="16.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Author: Hanzhang Xiong" textAlignment="JUSTIFY" underline="true" AnchorPane.bottomAnchor="4.2578125" AnchorPane.rightAnchor="0.88525390625" AnchorPane.topAnchor="3.431640625" />
                         <Text id="ProgramName" disable="true" layoutY="15.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Image Management Tool _ INFO 5100" textAlignment="JUSTIFY" underline="true" AnchorPane.bottomAnchor="4.2578125" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="3.431640625" />
                      </children>
                   </AnchorPane>

@@ -254,4 +254,7 @@ public class Controller implements Initializable {
             alert.showAndWait();
         }
     }
+
+    public void Github_link(ActionEvent actionEvent) {
+    }
 }

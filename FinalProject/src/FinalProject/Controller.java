@@ -8,7 +8,7 @@ import java.net.URL;
 public class Controller {
     @FXML
     public void Github_link(){
-        String urlString = "https://github.com/ShenYongji/INFO5100_FinalProject";
+        String urlString = "https://github.com/XHZ666/INFO5100_FinalProject";
         try {
             Desktop.getDesktop().browse(new URL(urlString).toURI());
         } catch (Exception e) {

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83854c9d-147a-4f5d-a391-dae7a20934ad" name="Default Changelist" comment="" />
+    <list default="true" id="83854c9d-147a-4f5d-a391-dae7a20934ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/src/FinalProject/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/src/FinalProject/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/src/FinalProject/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/src/FinalProject/mainUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/src/main/java/FinalProject/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/src/main/java/FinalProject/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/src/main/resources/FinalProject/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/src/main/resources/FinalProject/mainUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/src/main/resources/FinalProject/preface.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/src/main/resources/FinalProject/preface.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/target/classes/FinalProject/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/target/classes/FinalProject/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/target/classes/FinalProject/mainUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/target/classes/FinalProject/mainUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/target/classes/FinalProject/preface.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/target/classes/FinalProject/preface.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject/target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject/target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../INFO5100_FinalProject-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FinalProject" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668843023023</updated>
       <workItem from="1668843024648" duration="888000" />
-      <workItem from="1668844126442" duration="1254000" />
+      <workItem from="1668844126442" duration="1869000" />
+      <workItem from="1671148473231" duration="277000" />
     </task>
     <servers />
   </component>
@@ -53,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

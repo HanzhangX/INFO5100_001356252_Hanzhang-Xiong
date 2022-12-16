@@ -19,7 +19,7 @@
             <Font size="13.0" />
          </font>
       </Label>
-      <Label layoutX="283.0" layoutY="164.0" prefHeight="35.0" prefWidth="279.0" text="Designed by: Yongji Shen &amp; Zhiming Xue">
+      <Label layoutX="283.0" layoutY="164.0" prefHeight="35.0" prefWidth="279.0" text="Designed by: Hanzhang Xiong">
          <font>
             <Font name="System Font" size="13.0" />
          </font>
